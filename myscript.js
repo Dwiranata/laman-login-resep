@@ -70,7 +70,7 @@ signinButton.addEventListener("click", (e) => {
         .then(() => {
           // Data saved successfully!
           //   alert("user telah sukses login");
-          location.href = "https://dwiranata.github.io/contentplannerbyALDA/";
+          location.href = "https://dwiranata.github.io/Web_Resep_Masak_1/";
         })
         .catch((error) => {
           //the write failed
